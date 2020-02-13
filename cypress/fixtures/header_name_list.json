@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Email"
+  },
+  {
+    "name": "First Name"
+  },
+  {
+    "name": "Gender"
+  },
+  {
+    "name": "Last Name"
+  },
+  {
+    "name": "Phone"
+  },
+  {
+    "name": "Action"
+  }
+]

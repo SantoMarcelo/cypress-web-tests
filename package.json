@@ -1,0 +1,25 @@
+{
+  "name": "cypress-web-tests",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "cypress": "^4.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "open": "cypress open",
+    "headless": "cypress run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SantoMarcelo/cypress-web-tests.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SantoMarcelo/cypress-web-tests/issues"
+  },
+  "homepage": "https://github.com/SantoMarcelo/cypress-web-tests#readme"
+}
